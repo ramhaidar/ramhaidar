@@ -24,5 +24,9 @@
 ### 😂 Random Dev Meme
 <img src="https://img-9gag-fun.9cache.com/photo/a7qq23A_700bwp.webp" width="512px"/>
 
+### 🗿 Jump to it
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)](https://visitcount.itsvg.in)
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ramhaidar&icon=5&color=0)](https://visitcount.itsvg.in)
