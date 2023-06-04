@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ramhaidar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://img-9gag-fun.9cache.com/photo/a7qq23A_700bwp.webp" width="512px"/>
 
 ### 🗿 Jump to it
