@@ -30,3 +30,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ramhaidar&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 Donations Appreciated
+  [<img src="https://play-lh.googleusercontent.com/v0UW49SrkxIzfRRhYArIJvP456-QeKT9-1Yxk19gwJESPidGAnJS7n7_sHZe81NpX_E" width="14" height="14"> DANA: 081238777306](https://link.dana.id/qr/fvxhb278)  
+  [<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png" width="14" height="14"> Saweria: ramhaidar](https://saweria.co/ramhaidar)  
+  [<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//account/image/logo.png" width="14" height="14"> Sociabuzz: ramhaidar](https://sociabuzz.com/ramhaidar)  
