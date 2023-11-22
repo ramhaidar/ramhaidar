@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [BRIN Bandung KST Samaun Samadikun](https://goo.gl/maps/rXPLhwh8bsConqxr8)<br>🌱 I’m currently learning Laravel<br>📫 How to reach me: haidaruddinmuhammadr@gmail.com
+🔭 I’m currently studying on [Telkom University](https://telkomuniversity.ac.id/)<br>🌱 I’m currently learning [Laravel](https://laravel.com/)<br>📫 How to reach me: haidaruddinmuhammadr@gmail.com
 
 
 ## 🌐 Socials:
