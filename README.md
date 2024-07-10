@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying at [Telkom University](https://telkomuniversity.ac.id/) and will soon be completing my studies. As I prepare to graduate, I am actively seeking job opportunities to start my career.<br>🌱 I am proficient in using the [Laravel](https://laravel.com/) framework and am continuously improving my skills in [React.js](https://react.dev/).<br>📫 How to reach me: haidaruddinmuhammadr@gmail.com
+🔭 I am currently studying at [Telkom University](https://telkomuniversity.ac.id/) and will soon be completing my studies. As I prepare to graduate, I am actively seeking job opportunities to start my career.<br>🌱 I am proficient in using the [Laravel](https://laravel.com/) framework and am continuously improving my skills in [React.js](https://react.dev/).<br>📫 How to reach me: haidaruddinmuhammadr@gmail.com
 
 
 ## 🌐 Socials:
