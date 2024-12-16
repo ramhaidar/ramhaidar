@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently studying at [Telkom University](https://telkomuniversity.ac.id/) and will soon be completing my studies. As I prepare to graduate, I am actively seeking job opportunities to start my career.<br>🌱 I am proficient in using the [Laravel](https://laravel.com/) framework and am currently trying to learn [Angular](https://angular.dev/).<br>📫 How to reach me: haidaruddinmuhammadr@gmail.com
+# 💫 About Me:  
+🎓 I am a fresh graduate from [Telkom University](https://telkomuniversity.ac.id/), having recently completed my studies.<br>🌟 I have just completed the **AngularJS** certification from [The Johns Hopkins University](https://www.jhu.edu/) through Coursera.<br>🌱 Currently, I am pursuing the [**React Basics**](https://www.coursera.org/learn/react-basics) course offered by [Meta](https://about.meta.com/) on Coursera to further expand my skills.<br>🔧 I am proficient in using the [Laravel](https://laravel.com/) framework and continually seek to improve my expertise in web development.<br>📫 How to reach me: [haidaruddinmuhammadr@gmail.com](mailto:haidaruddinmuhammadr@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramhaidar) 
