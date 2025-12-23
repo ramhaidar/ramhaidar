@@ -10,17 +10,17 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ramhaidar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramhaidar&theme=gotham&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ramhaidar&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramhaidar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramhaidar&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramhaidar&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ramhaidar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
 <img src="https://img-9gag-fun.9cache.com/photo/a7qq23A_700bwp.webp" width="512px"/>
@@ -30,7 +30,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ramhaidar&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ramhaidar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Donations Appreciated
   [<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png" width="14" height="14"> Saweria: ramhaidar](https://saweria.co/ramhaidar)  
