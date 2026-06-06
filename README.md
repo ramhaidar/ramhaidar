@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 ![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/stats?username=ramhaidar&private=false&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ramhaidar&theme=dark&hide_border=false)<br/>
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/streak?username=ramhaidar&private=false&theme=dark&v=1)<br/>
 ![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/top-langs?username=ramhaidar&private=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
