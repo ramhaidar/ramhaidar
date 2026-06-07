@@ -9,18 +9,18 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/stats?username=ramhaidar&private=false&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2)<br/>
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/streak?username=ramhaidar&private=false&theme=dark&v=2)<br/>
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/top-langs?username=ramhaidar&private=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2)
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/stats?username=ramhaidar&private=false&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=3)<br/>
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/streak?username=ramhaidar&private=false&theme=dark&v=3)<br/>
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/top-langs?username=ramhaidar&private=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=3)
 
 ## 🏆 GitHub Trophies
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/trophy?username=ramhaidar&private=true&theme=dark&no-frame=false&no-bg=true&margin-w=4&v=2)
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/trophy?username=ramhaidar&private=true&theme=dark&no-frame=false&no-bg=true&margin-w=4&v=3)
 
 ### ✍️ Random Dev Quote
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/quotes?username=ramhaidar&type=vetical&theme=dark&v=2)
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/quotes?username=ramhaidar&type=vetical&theme=dark&v=3)
 
 ### 🔝 Top Contributed Repo
-![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/contributor?username=ramhaidar&private=true&theme=dark&limit=10&order_by=stars&combine_all_yearly_contributions=true&v=2)
+![](https://gh-widgets-worker.yusufwidodoh.workers.dev/api/contributor?username=ramhaidar&private=true&theme=dark&limit=10&order_by=stars&combine_all_yearly_contributions=true&v=3)
 
 ### 😂 Dev Meme
 <img src="https://img-9gag-fun.9cache.com/photo/a7qq23A_700bwp.webp" width="512px"/>
